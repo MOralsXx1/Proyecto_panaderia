@@ -32,6 +32,7 @@ public class Principal {
             System.out.println("8------ CALCULAR TOTAL DE DINERO INVERTIDO  ");
             System.out.println("9------ EDITAR BUSCANDO POR NOMBRE ");
             System.out.println("10------ ELIMINAR BUSCANDO POR NOMBRE ");
+            System.out.println("666------ EDICION DE CODIGO");
             System.out.println("11------ SALIR ");
             System.out.print("Introduce opcion deseada: ");
             menuPrinc = lectura.nextInt();
